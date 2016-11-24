@@ -1,0 +1,11 @@
+ body {
+ 	/*background:red; */
+ 	/*background: url('ima/gg');
+ 	background-repeat:no-repeat;
+ 	background-size:cover;
+ 	background-attachment: scroll;*/
+
+ 	background:url('ima/peru') no-repeat scroll center center;
+ 	background-size: 100%
+
+ }

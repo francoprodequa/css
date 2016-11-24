@@ -1,0 +1,23 @@
+body{
+ 	font-family: Courier;
+
+}
+
+p{
+	text-align: justify;
+	text-transform: capitalize;
+	letter-spacing:10px 
+	line-height: 30px;
+}
+
+h1{
+	font-family: "Times new Roman", Arial;
+	font-size: 30px;
+	font-style:italic;
+	font-weight: normal;
+	color:#4281ed;
+	text-align: left;
+	text-decoration: underline;
+	/*text-transform: uppercase;*/
+	text-transform: capitalize;
+}
